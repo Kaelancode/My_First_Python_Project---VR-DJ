@@ -1,0 +1,15 @@
+speech_recognition
+pyttsx3
+pywhatkit
+wikipedia
+pyjokes
+webbrowser
+PySimpleGUI
+gtts
+ibm-watson 5.3.0 
+wolframalpha
+duckduckgo
+urllib
+PIL
+vlc
+re
