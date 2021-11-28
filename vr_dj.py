@@ -288,7 +288,7 @@ column_for_Controls =[  [sg.Text('Whats on your mind?'),sg.Input(key='-IN-')],
 def btn(name):  # a PySimpleGUI "User Defined Element" (see docs)
     return sg.Button(name, size=(6, 1), pad=(1, 1))
 # ALL the stuff inside the window
-layout = [  [sg.Text('HELLO YAKUN',justification='center',size=(70,1))],
+layout = [  [sg.Text('HELLO Kalean',justification='center',size=(70,1))],
             #[sg.Image(key ='image'),sg.Image(vrmaid2)],
             [sg.Image('',size=(700, 397), key='-VID_OUT-')],
             [sg.Column(column_to_be_centered, vertical_alignment='center', justification='center',  k='-C-'),sg.Column(column_for_Controls,vertical_alignment='center', justification='center')],
