@@ -11,4 +11,4 @@ Since Covid started, it has practically ended nightlife, concerts , clubs and mu
 ![alt text](dj.PNG "dj")
 
 
-![alt text](dj2.PNG,'dj2')
+![alt text](dj2.PNG 'dj2')
